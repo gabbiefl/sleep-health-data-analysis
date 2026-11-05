@@ -10,7 +10,6 @@ Análise de ciência de dados sobre a relação entre duração do sono, qualida
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
@@ -97,6 +96,5 @@ python <arquivo-de-analise>.py
 | --- | --- |
 | Python | Linguagem principal |
 | Pandas | Limpeza dos dados e estatística descritiva |
-| NumPy | Operações numéricas |
 | Seaborn | Visualização das associações |
 | Matplotlib | Gráficos |

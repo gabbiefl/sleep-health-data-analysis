@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Panda sleeping under a crescent moon">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="256" fill="#141B2D"/>
+
+  <!-- Moon -->
+  <circle cx="400" cy="120" r="34" fill="#F2D66B"/>
+  <circle cx="414" cy="110" r="30" fill="#141B2D"/>
+
+  <!-- Stars (scatter-plot dots) -->
+  <circle cx="120" cy="125" r="5" fill="#F2D66B"/>
+  <circle cx="176" cy="80" r="4" fill="#F2D66B"/>
+  <circle cx="445" cy="200" r="4" fill="#F2D66B"/>
+  <circle cx="90" cy="215" r="3" fill="#F2D66B" opacity="0.7"/>
+
+  <!-- Ears -->
+  <circle cx="160" cy="192" r="44" fill="#2C3658"/>
+  <circle cx="352" cy="192" r="44" fill="#2C3658"/>
+
+  <!-- Face -->
+  <ellipse cx="256" cy="292" rx="132" ry="112" fill="#F4F1EA"/>
+
+  <!-- Eye patches -->
+  <ellipse cx="205" cy="292" rx="34" ry="44" fill="#141B2D" transform="rotate(25 205 292)"/>
+  <ellipse cx="307" cy="292" rx="34" ry="44" fill="#141B2D" transform="rotate(-25 307 292)"/>
+
+  <!-- Closed eyes -->
+  <path d="M188 294 Q205 310 222 294" fill="none" stroke="#F4F1EA" stroke-width="7" stroke-linecap="round"/>
+  <path d="M290 294 Q307 310 324 294" fill="none" stroke="#F4F1EA" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Nose and mouth -->
+  <ellipse cx="256" cy="336" rx="17" ry="11" fill="#141B2D"/>
+  <path d="M256 346 L256 355" fill="none" stroke="#141B2D" stroke-width="5" stroke-linecap="round"/>
+  <path d="M243 358 Q256 369 269 358" fill="none" stroke="#141B2D" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/sleep-panda-icon.svg" alt="Ícone do projeto" width="140" />
+<img src="sleep-panda-icon.svg" alt="Ícone do projeto" width="140" />
 
 # Sono, Qualidade do Descanso e Estresse
 
